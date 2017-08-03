@@ -1,3 +1,23 @@
+# sin chengka ê mi̍hkiāⁿ
+
+* Tī `csv_data` lāité, ū bô-kāng format ê tòng-àn:
+  * TJTST.csv: goânté ê CSV
+  * TJTST.ods: kā TJTST.csv choán chò thong-iōng ê [ODS tòng-àn](https://en.wikipedia.org/wiki/OpenDocument)
+  * TJTST.xls: kā TJTST.csv choán chò [MS](https://en.wikipedia.org/wiki/Microsoft) ê [XLS tòng-àn](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats)
+  * TJTST_tab.csv: kā TJTST.csv lāibīn ê khang-pe̍h choán chò TAB (ánne ētàng khah khinsang tha̍k).
+
+* Tī `tools` lāité ê `tjtst_dnld.sh`, ētàng tángló͘ (download) 「原冊掃描」ê tô͘ tòng-àn.
+  Kanna tī Ubuntu ê BASH lāité sú-iōng--kòe, Windows èngkai sī bô tè ēng.
+  (iOS góa tō bô liáukái ah.)
+
+* Nā beh ti̍tchiap liâm khì 台日大辭典 ê bó͘ chi̍t-ê phian-hō tiâu-bo̍k (chúnkóng sī `12345`),
+  ētàng tiám ēkha ê liânkiat, chiah koh kā `id=1` kái chò `id=12345`:
+
+  [http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=1](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=1)
+
+</hr>
+[ēkha sī goânté hit-ê Project ê README.md]
+
 # 台日大辭典台語譯本
 台日大辭典是1931,1932小川尚義編的。內底的閣有2005林俊育長老拍的字。
 
