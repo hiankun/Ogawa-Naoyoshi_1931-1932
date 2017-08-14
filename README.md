@@ -5,6 +5,7 @@
   * TJTST.ods: kā TJTST.csv choán chò thong-iōng ê [ODS tòng-àn](https://en.wikipedia.org/wiki/OpenDocument)
   * TJTST.xls: kā TJTST.csv choán chò [MS](https://en.wikipedia.org/wiki/Microsoft) ê [XLS tòng-àn](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats)
   * TJTST_tab.csv: kā TJTST.csv lāibīn ê khang-pe̍h choán chò TAB (ánne ētàng khah khinsang tha̍k).
+  * TJTST_tab_concat.csv: chénglí TJTST_tab.csv lāibīn ê tiâuba̍k; nā chún-kóng sī kāng chi̍t-ê tiâuba̍k ê lōeiông, tō saⁿ-kap chò kāng chi̍t-hâng.
 
 * Tī `tools` lāité ê `tjtst_dnld.sh`, ētàng tángló͘ (download) 「原冊掃描」ê tô͘ tòng-àn.
   Kanna tī Ubuntu ê BASH lāité sú-iōng--kòe, Windows èngkai sī bô tè ēng.
@@ -14,6 +15,10 @@
   ētàng tiám ēkha ê liânkiat, chiah koh kā `id=1` kái chò `id=12345`:
 
   [http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=1](http://taigi.fhl.net/dict/search.php?DETAIL=1&LIMIT=id=1)
+  
+  á-sī:
+
+  [http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=1](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=1)
 
 </hr>
 [ēkha sī goânté hit-ê Project ê README.md]
